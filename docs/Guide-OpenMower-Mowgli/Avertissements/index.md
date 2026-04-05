@@ -3,7 +3,7 @@ title: "⚠️ Avertissements"
 sidebar_position: 1
 ---
 
-![Illustration avertissement](img/illustration-avertissements.png)
+![Illustration avertissement](/img/illustration-avertissements.png)
 
 # ⚠️ Avertissements
 
