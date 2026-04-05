@@ -12,7 +12,7 @@ const sidebars = {
         slug: '/docs/Guide-OpenMower-Mowgli/',
       },
       items: [
-        'Guide-OpenMower-Mowgli/Avertissements/index',
+        'Guide-OpenMower-Mowgli/index',
         'Guide-OpenMower-Mowgli/materiel-requis',
         'Guide-OpenMower-Mowgli/installation-preparation-pi',
         'Guide-OpenMower-Mowgli/configuration-systeme',
