@@ -3,8 +3,11 @@ title: "⚠️ Avertissements"
 sidebar_position: 1
 ---
 
-![Illustration avertissement](/img/illustration-avertissements.png)
+# Option A (La plus fiable avec Docusaurus) :
+![Illustration avertissement](@site/static/img/illustration-avertissements.png)
 
+# Option B (Si tu préfères rester en Markdown standard) :
+![Illustration avertissement](/img/illustration-avertissements.png)
 # ⚠️ Avertissements
 
 Bienvenue dans ce guide dédié à la transformation de votre robot tondeuse **Yardforce 500 ou 500B** en robot autonome via le projet **OpenMower + Mowgli**.
