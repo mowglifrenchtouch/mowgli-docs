@@ -46,10 +46,10 @@ Un simple "boost" ne vous coûte rien mais aide à donner de la visibilité à n
 
 ## 📸 Galerie
 
-![Roue avec pneu lestable](img/impression-roues.jpg)
-![support raspberry pi](img/impression-support-raspberry.jpg)
-![support F9P](img/impression-support-f9p.jpg)
-![Base surélevé](img/impression-base.jpg)
+![Roue avec pneu lestable](/img/impression-roues.jpg)
+![support raspberry pi](/img/impression-support-raspberry.jpg)
+![support F9P](/img/impression-support-f9p.jpg)
+![Base surélevé](/img/impression-base.jpg)
 
 
 ---

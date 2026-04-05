@@ -14,7 +14,7 @@ Ce schéma présente le câblage complet du robot basé sur le modèle Yardforce
 
 ## 🖼️ Schéma interactif
 
-[![Aperçu du schéma de câblage Mowgli](img/yardforce_wiring2.drawio.png)](https://viewer.diagrams.net/?highlight=0000ff&nav=1#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FMowglifrenchtouch%2Fmowgli-docs%2Fmain%2Fstatic%2Fimg%2Fyardforce_wiring2.drawio)
+[![Aperçu du schéma de câblage Mowgli](/img/yardforce_wiring2.drawio.png)](https://viewer.diagrams.net/?highlight=0000ff&nav=1#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FMowglifrenchtouch%2Fmowgli-docs%2Fmain%2Fstatic%2Fimg%2Fyardforce_wiring2.drawio)
 
 > 🔍 Cliquez sur l’image pour ouvrir le schéma interactif dans un nouvel onglet.
 

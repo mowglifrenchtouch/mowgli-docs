@@ -6,7 +6,7 @@ layout: default
 parent: "🏠 Guide OpenMower"
 ---
 
-![Illustration du panneau Yardforce](img/illustration-serigraphie.png)
+![Illustration du panneau Yardforce](/img/illustration-serigraphie.png)
 
 ## 🖥️ Sérigraphie du panneau Yardforce
 
