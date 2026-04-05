@@ -3,10 +3,6 @@ title: "⚠️ Avertissements"
 sidebar_position: 1
 ---
 
-# Option A (La plus fiable avec Docusaurus) :
-![Illustration avertissement](@site/static/img/illustration-avertissements.png)
-
-# Option B (Si tu préfères rester en Markdown standard) :
 ![Illustration avertissement](/img/illustration-avertissements.png)
 # ⚠️ Avertissements
 
