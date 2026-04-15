@@ -87,6 +87,11 @@ Chaque contribution rend ce guide plus utile pour tous les utilisateurs 🚀
   Si vous n’avez pas d’imprimante 3D, je peux vous imprimer les pièces nécessaires à votre projet.
 </div>
 
+<div class="alert alert--warning">
+  <div class="alert-title">🧪 Bug / Problème</div>
+  Si vous rencontrez un comportement anormal, merci de préciser la version du firmware et les logs associés.
+</div>
+
 ### ▶️ 1. Ajouter une vidéo YouTube (recommandé)
 
 Utilisez une balise HTML `<iframe>` dans votre fichier `.md` :
