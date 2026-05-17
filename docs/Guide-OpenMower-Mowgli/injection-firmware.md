@@ -108,6 +108,11 @@ Avant toute modification, sauvegardez votre firmware actuel avec un **STLINK** (
   </div>
 </div>
 
+<p>
+  En cas d'erreur <code>Error: init mode failed (unable to connect to the target)</code>, vérifier les connections du st-link-v2 (il est très courant de les inverser).
+  Si l'erreur persiste, plusieurs cas ont été observés où le remplacement du st-link-v2 a corrigé le problème.
+</p>
+
 ## 📁 Option 2 : Via STM32CubeProgrammer
 
 <div class="alert-blue">
