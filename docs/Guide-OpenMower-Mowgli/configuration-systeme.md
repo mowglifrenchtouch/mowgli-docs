@@ -113,6 +113,11 @@ sudo docker compose up -d
   <p><strong>⚠️ Depuis le 12/10/2024, la modification d'un fichier est obligatoire pour le bon fonctionnement de votre robot. Sans cela, celui-ci pourrait ne pas fonctionner correctement.</strong></p>
 </div>
 
+<div class="alert alert--warning">
+  <div class="alert-title">⚠️ Configuration en ligne de commande uniquement</div>
+  <p><strong>La modification de la configuration depuis l'interface webui openmower casse le système.</strong> En cas de problème <code>git checkout HEAD -- config/om/mower_config.sh</code> suivi d'un redémarrage des containers permet de résoudre la situation.</p>
+</div>
+
 Editez le fichier `mower_config.sh` :
 
 ```sh
